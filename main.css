@@ -4,20 +4,20 @@
     background-color: palegoldenrod;
     border: solid black 2px;
     font-size: 42pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-    /* Phase 1 */
-
-    /* Your code here 
 }
 
 .example2 {
     border: dashed grey 1px;
     border-radius: 16px;
     padding: 16px;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
 
-    /* Phase 2 */
-
-    /* Your code here 
 }
 
 .example2 > button {
@@ -46,13 +46,13 @@
 
     /* Phase 3 */
 
-    /* Your code here 
+    /* Your code here
 }
 
 .example4 {
     /* Phase 4 - Part 1 of 2 */
 
-    /* Your code here 
+    /* Your code here
 }
 
 .sidebar {
@@ -61,7 +61,7 @@
 
     /* Phase 4 - Part 2 of 2 */
 
-    /* Your code here 
+    /* Your code here
 }
 .content-area {
     background-color: #E8EFF0;
